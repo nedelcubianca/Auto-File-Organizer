@@ -46,7 +46,7 @@ pip install watchdog
 
 3. **Configure the folder to organize** (IMPORTANT):
 
-Open `file_organizer.py` and modify line 8 to point to your desired folder:
+Open `auto-file-organizer.py` and modify line 8 to point to your desired folder:
 
 ```python
 # Change this line to your target folder
@@ -71,7 +71,7 @@ python auto-file-organizer.py
 cd path/to/auto-file-organizer
 
 # Run the script
-python file_organizer.py
+python auto-file-organizer.py
 ```
 
 ### On macOS/Linux:
@@ -80,7 +80,7 @@ python file_organizer.py
 cd path/to/auto-file-organizer
 
 # Run the script
-python3 file_organizer.py
+python3 auto-file-organizer.py
 ```
 
 ### Alternative: Run directly
