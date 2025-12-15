@@ -185,15 +185,6 @@ def on_deleted(self, event):
         if not file_still_exists:
             print_msg(f"File deleted: {path.name}")
 ```
-
-### Problem 3: Duplicate File Handling
-**Issue**: Initial implementation would create multiple copies of files with the same name.
-
-**Solution**: Implemented duplicate detection that:
-- Checks if a file with the same name exists in the destination folder
-- Deletes the new file if a duplicate is found
-- Keeps the original file intact
-
 ## Customization
 
 ### Change the Target Folder
