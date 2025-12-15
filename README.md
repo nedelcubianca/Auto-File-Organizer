@@ -60,7 +60,7 @@ main_folder = Path.home() / "Downloads"  # Default is Downloads
 
 4. Run the program:
 ```bash
-python file_organizer.py
+python auto-file-organizer.py
 ```
 
 ## How to Run
