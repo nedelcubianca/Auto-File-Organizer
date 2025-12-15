@@ -68,7 +68,7 @@ python auto-file-organizer.py
 ### On Windows:
 ```bash
 # Navigate to the project folder
-cd path/to/auto-file-organizer
+cd path/to/"Files Organizer"
 
 # Run the script
 python auto-file-organizer.py
@@ -77,7 +77,7 @@ python auto-file-organizer.py
 ### On macOS/Linux:
 ```bash
 # Navigate to the project folder
-cd path/to/auto-file-organizer
+cd path/to/"Files Organizer"
 
 # Run the script
 python3 auto-file-organizer.py
