@@ -35,7 +35,7 @@ A Python-based automatic file organizer that monitors a specified folder and sor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/auto-file-organizer.git
+git clone https://github.com/nedelcubianca/auto-file-organizer.git
 cd auto-file-organizer
 ```
 
